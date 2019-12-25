@@ -29,7 +29,7 @@ public class PesquisaFabricanteBean implements Serializable {
 		return fabricantes;
 	}
 
-	// METEDO EXCLUIR
+	// METEDO EXCLUIR!
 	public void excluir() {
 		try {
 			fabricanteDAO.excluir(fabricanteSelecionado);
