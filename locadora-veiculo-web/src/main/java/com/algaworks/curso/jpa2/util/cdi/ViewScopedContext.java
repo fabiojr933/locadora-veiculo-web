@@ -18,7 +18,7 @@ import javax.faces.event.SystemEventListener;
 /**
  * Copied from Seam Faces 3.1.0.
  * 
- * @author Steve. Taylor
+ * @author Steve Taylor
  */
 public class ViewScopedContext implements Context, SystemEventListener {
 	
